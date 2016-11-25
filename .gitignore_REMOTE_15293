@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-# APP
-node_modules
-build/
-data/
-uploads/
-stats.json
-
-# Other
-*.log
-*.db
-.idea
-.DS_Store
-*.map
-.sass-cache/*
-.TemporaryItems/*
-=======
 # Logs
 logs
 *.log
@@ -52,4 +35,3 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
->>>>>>> 56cfe48e3f0d9220002157cffd7423997b0aceb7
